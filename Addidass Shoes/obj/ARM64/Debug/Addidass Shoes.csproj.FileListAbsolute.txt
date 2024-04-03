@@ -1,0 +1,11 @@
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\bin\ARM64\Debug\Addidass Shoes.exe.config
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\bin\ARM64\Debug\Addidass Shoes.exe
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\bin\ARM64\Debug\Addidass Shoes.pdb
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass Shoes.csproj.AssemblyReference.cache
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass_Shoes.Form2.resources
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass_Shoes.Login_form.resources
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass_Shoes.Properties.Resources.resources
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass Shoes.csproj.GenerateResource.cache
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass Shoes.csproj.CoreCompileInputs.cache
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass Shoes.exe
+D:\c# dasturlash tili\Addidass Shoes\Addidass Shoes\obj\ARM64\Debug\Addidass Shoes.pdb
